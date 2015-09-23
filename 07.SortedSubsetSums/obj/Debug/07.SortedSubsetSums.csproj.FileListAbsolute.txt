@@ -1,0 +1,6 @@
+C:\Users\aiv\Documents\Visual Studio 2015\Projects\HomeWorks CSharp Advanced\HomeworkArraysListsStacksQueues\07.SortedSubsetSums\bin\Debug\07.SortedSubsetSums.exe.config
+C:\Users\aiv\Documents\Visual Studio 2015\Projects\HomeWorks CSharp Advanced\HomeworkArraysListsStacksQueues\07.SortedSubsetSums\bin\Debug\07.SortedSubsetSums.exe
+C:\Users\aiv\Documents\Visual Studio 2015\Projects\HomeWorks CSharp Advanced\HomeworkArraysListsStacksQueues\07.SortedSubsetSums\bin\Debug\07.SortedSubsetSums.pdb
+C:\Users\aiv\Documents\Visual Studio 2015\Projects\HomeWorks CSharp Advanced\HomeworkArraysListsStacksQueues\07.SortedSubsetSums\obj\Debug\07.SortedSubsetSums.csprojResolveAssemblyReference.cache
+C:\Users\aiv\Documents\Visual Studio 2015\Projects\HomeWorks CSharp Advanced\HomeworkArraysListsStacksQueues\07.SortedSubsetSums\obj\Debug\07.SortedSubsetSums.exe
+C:\Users\aiv\Documents\Visual Studio 2015\Projects\HomeWorks CSharp Advanced\HomeworkArraysListsStacksQueues\07.SortedSubsetSums\obj\Debug\07.SortedSubsetSums.pdb

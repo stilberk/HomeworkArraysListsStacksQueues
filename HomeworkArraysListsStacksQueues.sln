@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication1", "ConsoleApplication1\ConsoleApplication1.csproj", "{7FEDA765-034B-437E-8C4E-FBB0DAC522C7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.LegoBlocks", "ConsoleApplication1\08.LegoBlocks.csproj", "{7FEDA765-034B-437E-8C4E-FBB0DAC522C7}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.SortArrayofnumbers", "01.SortArrayofnumbers\01.SortArrayofnumbers.csproj", "{EB06CC76-842C-4AA1-AB8E-D7B08A9DF0B8}"
 EndProject
@@ -11,11 +11,17 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.SortArrayBySelectionSort
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.MinMaxAverage", "03.MinMaxAverage\03.MinMaxAverage.csproj", "{7CA25C3C-9A73-461E-8A51-080B8B0F0974}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.SumOFSubset", "test\06.SumOFSubset.csproj", "{63FB19B9-D46F-4AE7-A902-F1FFD0F764F4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.Stucknumbers", "test\09.Stucknumbers.csproj", "{63FB19B9-D46F-4AE7-A902-F1FFD0F764F4}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.SequenceOfEqualStrings", "04.SequenceOfEqualStrings\04.SequenceOfEqualStrings.csproj", "{1D6AD501-B3C2-4C26-8EF7-5617E0FEB325}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.LongestIncreasingSequence", "05.LongestIncreasingSequence\05.LongestIncreasingSequence.csproj", "{9C2389EC-5952-4BC6-B50D-620AD9E6FDDE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.SortedSubsetSums", "07.SortedSubsetSums\07.SortedSubsetSums.csproj", "{5EEC1176-044D-48BA-B2A3-1141E1C4A0AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.SubsetSums", "09.StuckNumbers\06.SubsetSums.csproj", "{B54DC31E-BC4D-442D-95E3-155FE85E0DD2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.PythagoreanNumbers", "10.PythagoreanNumbers\10.PythagoreanNumbers.csproj", "{60AAD57A-0B7C-439E-8503-B7C46EA0C889}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +57,18 @@ Global
 		{9C2389EC-5952-4BC6-B50D-620AD9E6FDDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9C2389EC-5952-4BC6-B50D-620AD9E6FDDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9C2389EC-5952-4BC6-B50D-620AD9E6FDDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EEC1176-044D-48BA-B2A3-1141E1C4A0AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EEC1176-044D-48BA-B2A3-1141E1C4A0AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EEC1176-044D-48BA-B2A3-1141E1C4A0AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EEC1176-044D-48BA-B2A3-1141E1C4A0AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B54DC31E-BC4D-442D-95E3-155FE85E0DD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B54DC31E-BC4D-442D-95E3-155FE85E0DD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B54DC31E-BC4D-442D-95E3-155FE85E0DD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B54DC31E-BC4D-442D-95E3-155FE85E0DD2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60AAD57A-0B7C-439E-8503-B7C46EA0C889}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60AAD57A-0B7C-439E-8503-B7C46EA0C889}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60AAD57A-0B7C-439E-8503-B7C46EA0C889}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60AAD57A-0B7C-439E-8503-B7C46EA0C889}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

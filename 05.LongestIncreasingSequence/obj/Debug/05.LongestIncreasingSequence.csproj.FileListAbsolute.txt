@@ -4,3 +4,9 @@ D:\HomeWorks CSharp Advanced\HomeworkArraysListsStacksQueues\05.LongestIncreasin
 D:\HomeWorks CSharp Advanced\HomeworkArraysListsStacksQueues\05.LongestIncreasingSequence\obj\Debug\05.LongestIncreasingSequence.csprojResolveAssemblyReference.cache
 D:\HomeWorks CSharp Advanced\HomeworkArraysListsStacksQueues\05.LongestIncreasingSequence\obj\Debug\05.LongestIncreasingSequence.exe
 D:\HomeWorks CSharp Advanced\HomeworkArraysListsStacksQueues\05.LongestIncreasingSequence\obj\Debug\05.LongestIncreasingSequence.pdb
+C:\Users\aiv\Documents\Visual Studio 2015\Projects\HomeWorks CSharp Advanced\HomeworkArraysListsStacksQueues\05.LongestIncreasingSequence\bin\Debug\05.LongestIncreasingSequence.exe.config
+C:\Users\aiv\Documents\Visual Studio 2015\Projects\HomeWorks CSharp Advanced\HomeworkArraysListsStacksQueues\05.LongestIncreasingSequence\obj\Debug\05.LongestIncreasingSequence.exe
+C:\Users\aiv\Documents\Visual Studio 2015\Projects\HomeWorks CSharp Advanced\HomeworkArraysListsStacksQueues\05.LongestIncreasingSequence\obj\Debug\05.LongestIncreasingSequence.pdb
+C:\Users\aiv\Documents\Visual Studio 2015\Projects\HomeWorks CSharp Advanced\HomeworkArraysListsStacksQueues\05.LongestIncreasingSequence\bin\Debug\05.LongestIncreasingSequence.exe
+C:\Users\aiv\Documents\Visual Studio 2015\Projects\HomeWorks CSharp Advanced\HomeworkArraysListsStacksQueues\05.LongestIncreasingSequence\bin\Debug\05.LongestIncreasingSequence.pdb
+C:\Users\aiv\Documents\Visual Studio 2015\Projects\HomeWorks CSharp Advanced\HomeworkArraysListsStacksQueues\05.LongestIncreasingSequence\obj\Debug\05.LongestIncreasingSequence.csprojResolveAssemblyReference.cache

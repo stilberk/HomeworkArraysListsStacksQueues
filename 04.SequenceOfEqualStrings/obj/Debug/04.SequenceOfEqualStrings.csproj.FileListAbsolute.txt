@@ -4,3 +4,9 @@ D:\HomeWorks CSharp Advanced\HomeworkArraysListsStacksQueues\04.SequenceOfEqualS
 D:\HomeWorks CSharp Advanced\HomeworkArraysListsStacksQueues\04.SequenceOfEqualStrings\obj\Debug\04.SequenceOfEqualStrings.csprojResolveAssemblyReference.cache
 D:\HomeWorks CSharp Advanced\HomeworkArraysListsStacksQueues\04.SequenceOfEqualStrings\obj\Debug\04.SequenceOfEqualStrings.exe
 D:\HomeWorks CSharp Advanced\HomeworkArraysListsStacksQueues\04.SequenceOfEqualStrings\obj\Debug\04.SequenceOfEqualStrings.pdb
+C:\Users\aiv\Documents\Visual Studio 2015\Projects\HomeWorks CSharp Advanced\HomeworkArraysListsStacksQueues\04.SequenceOfEqualStrings\bin\Debug\04.SequenceOfEqualStrings.exe.config
+C:\Users\aiv\Documents\Visual Studio 2015\Projects\HomeWorks CSharp Advanced\HomeworkArraysListsStacksQueues\04.SequenceOfEqualStrings\obj\Debug\04.SequenceOfEqualStrings.exe
+C:\Users\aiv\Documents\Visual Studio 2015\Projects\HomeWorks CSharp Advanced\HomeworkArraysListsStacksQueues\04.SequenceOfEqualStrings\obj\Debug\04.SequenceOfEqualStrings.pdb
+C:\Users\aiv\Documents\Visual Studio 2015\Projects\HomeWorks CSharp Advanced\HomeworkArraysListsStacksQueues\04.SequenceOfEqualStrings\bin\Debug\04.SequenceOfEqualStrings.exe
+C:\Users\aiv\Documents\Visual Studio 2015\Projects\HomeWorks CSharp Advanced\HomeworkArraysListsStacksQueues\04.SequenceOfEqualStrings\bin\Debug\04.SequenceOfEqualStrings.pdb
+C:\Users\aiv\Documents\Visual Studio 2015\Projects\HomeWorks CSharp Advanced\HomeworkArraysListsStacksQueues\04.SequenceOfEqualStrings\obj\Debug\04.SequenceOfEqualStrings.csprojResolveAssemblyReference.cache

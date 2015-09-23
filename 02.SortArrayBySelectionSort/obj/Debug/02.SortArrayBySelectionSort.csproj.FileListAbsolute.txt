@@ -7,3 +7,9 @@ C:\Users\StiL\Documents\Visual Studio 2013\Projects\HomeworkArraysListsStacksQue
 D:\HomeWorks CSharp Advanced\HomeworkArraysListsStacksQueues\02.SortArrayBySelectionSort\bin\Debug\02.SortArrayBySelectionSort.exe.config
 D:\HomeWorks CSharp Advanced\HomeworkArraysListsStacksQueues\02.SortArrayBySelectionSort\obj\Debug\02.SortArrayBySelectionSort.exe
 D:\HomeWorks CSharp Advanced\HomeworkArraysListsStacksQueues\02.SortArrayBySelectionSort\obj\Debug\02.SortArrayBySelectionSort.pdb
+C:\Users\aiv\Documents\Visual Studio 2015\Projects\HomeWorks CSharp Advanced\HomeworkArraysListsStacksQueues\02.SortArrayBySelectionSort\bin\Debug\02.SortArrayBySelectionSort.exe.config
+C:\Users\aiv\Documents\Visual Studio 2015\Projects\HomeWorks CSharp Advanced\HomeworkArraysListsStacksQueues\02.SortArrayBySelectionSort\obj\Debug\02.SortArrayBySelectionSort.exe
+C:\Users\aiv\Documents\Visual Studio 2015\Projects\HomeWorks CSharp Advanced\HomeworkArraysListsStacksQueues\02.SortArrayBySelectionSort\obj\Debug\02.SortArrayBySelectionSort.pdb
+C:\Users\aiv\Documents\Visual Studio 2015\Projects\HomeWorks CSharp Advanced\HomeworkArraysListsStacksQueues\02.SortArrayBySelectionSort\bin\Debug\02.SortArrayBySelectionSort.exe
+C:\Users\aiv\Documents\Visual Studio 2015\Projects\HomeWorks CSharp Advanced\HomeworkArraysListsStacksQueues\02.SortArrayBySelectionSort\bin\Debug\02.SortArrayBySelectionSort.pdb
+C:\Users\aiv\Documents\Visual Studio 2015\Projects\HomeWorks CSharp Advanced\HomeworkArraysListsStacksQueues\02.SortArrayBySelectionSort\obj\Debug\02.SortArrayBySelectionSort.csprojResolveAssemblyReference.cache
