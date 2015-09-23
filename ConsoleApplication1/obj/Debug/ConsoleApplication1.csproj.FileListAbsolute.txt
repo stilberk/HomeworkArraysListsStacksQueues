@@ -1,0 +1,9 @@
+C:\Users\StiL\Documents\Visual Studio 2013\Projects\HomeworkArraysListsStacksQueues\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\StiL\Documents\Visual Studio 2013\Projects\HomeworkArraysListsStacksQueues\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\StiL\Documents\Visual Studio 2013\Projects\HomeworkArraysListsStacksQueues\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\StiL\Documents\Visual Studio 2013\Projects\HomeworkArraysListsStacksQueues\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\StiL\Documents\Visual Studio 2013\Projects\HomeworkArraysListsStacksQueues\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\StiL\Documents\Visual Studio 2013\Projects\HomeworkArraysListsStacksQueues\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\HomeWorks CSharp Advanced\HomeworkArraysListsStacksQueues\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\HomeWorks CSharp Advanced\HomeworkArraysListsStacksQueues\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\HomeWorks CSharp Advanced\HomeworkArraysListsStacksQueues\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

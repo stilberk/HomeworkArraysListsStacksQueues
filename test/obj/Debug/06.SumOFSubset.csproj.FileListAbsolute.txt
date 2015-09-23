@@ -1,0 +1,12 @@
+C:\Users\StiL\Documents\Visual Studio 2013\Projects\HomeworkArraysListsStacksQueues\test\bin\Debug\test.exe.config
+C:\Users\StiL\Documents\Visual Studio 2013\Projects\HomeworkArraysListsStacksQueues\test\obj\Debug\test.exe
+C:\Users\StiL\Documents\Visual Studio 2013\Projects\HomeworkArraysListsStacksQueues\test\obj\Debug\test.pdb
+C:\Users\StiL\Documents\Visual Studio 2013\Projects\HomeworkArraysListsStacksQueues\test\bin\Debug\test.exe
+C:\Users\StiL\Documents\Visual Studio 2013\Projects\HomeworkArraysListsStacksQueues\test\bin\Debug\test.pdb
+C:\Users\StiL\Documents\Visual Studio 2013\Projects\HomeworkArraysListsStacksQueues\test\obj\Debug\06.SumOFSubset.csprojResolveAssemblyReference.cache
+D:\HomeWorks CSharp Advanced\HomeworkArraysListsStacksQueues\test\bin\Debug\test.exe.config
+D:\HomeWorks CSharp Advanced\HomeworkArraysListsStacksQueues\test\obj\Debug\test.exe
+D:\HomeWorks CSharp Advanced\HomeworkArraysListsStacksQueues\test\obj\Debug\test.pdb
+D:\HomeWorks CSharp Advanced\HomeworkArraysListsStacksQueues\test\bin\Debug\test.exe
+D:\HomeWorks CSharp Advanced\HomeworkArraysListsStacksQueues\test\bin\Debug\test.pdb
+D:\HomeWorks CSharp Advanced\HomeworkArraysListsStacksQueues\test\obj\Debug\06.SumOFSubset.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+C:\Users\StiL\Documents\Visual Studio 2013\Projects\HomeworkArraysListsStacksQueues\01.SortArrayofnumbers\bin\Debug\01.SortArrayofnumbers.exe.config
+C:\Users\StiL\Documents\Visual Studio 2013\Projects\HomeworkArraysListsStacksQueues\01.SortArrayofnumbers\bin\Debug\01.SortArrayofnumbers.exe
+C:\Users\StiL\Documents\Visual Studio 2013\Projects\HomeworkArraysListsStacksQueues\01.SortArrayofnumbers\bin\Debug\01.SortArrayofnumbers.pdb
+C:\Users\StiL\Documents\Visual Studio 2013\Projects\HomeworkArraysListsStacksQueues\01.SortArrayofnumbers\obj\Debug\01.SortArrayofnumbers.csprojResolveAssemblyReference.cache
+C:\Users\StiL\Documents\Visual Studio 2013\Projects\HomeworkArraysListsStacksQueues\01.SortArrayofnumbers\obj\Debug\01.SortArrayofnumbers.exe
+C:\Users\StiL\Documents\Visual Studio 2013\Projects\HomeworkArraysListsStacksQueues\01.SortArrayofnumbers\obj\Debug\01.SortArrayofnumbers.pdb
+D:\HomeWorks CSharp Advanced\HomeworkArraysListsStacksQueues\01.SortArrayofnumbers\bin\Debug\01.SortArrayofnumbers.exe.config
+D:\HomeWorks CSharp Advanced\HomeworkArraysListsStacksQueues\01.SortArrayofnumbers\obj\Debug\01.SortArrayofnumbers.exe
+D:\HomeWorks CSharp Advanced\HomeworkArraysListsStacksQueues\01.SortArrayofnumbers\obj\Debug\01.SortArrayofnumbers.pdb

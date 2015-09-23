@@ -1,0 +1,9 @@
+C:\Users\StiL\Documents\Visual Studio 2013\Projects\HomeworkArraysListsStacksQueues\03.MinMaxAverage\bin\Debug\03.MinMaxAverage.exe.config
+C:\Users\StiL\Documents\Visual Studio 2013\Projects\HomeworkArraysListsStacksQueues\03.MinMaxAverage\bin\Debug\03.MinMaxAverage.exe
+C:\Users\StiL\Documents\Visual Studio 2013\Projects\HomeworkArraysListsStacksQueues\03.MinMaxAverage\bin\Debug\03.MinMaxAverage.pdb
+C:\Users\StiL\Documents\Visual Studio 2013\Projects\HomeworkArraysListsStacksQueues\03.MinMaxAverage\obj\Debug\03.MinMaxAverage.csprojResolveAssemblyReference.cache
+C:\Users\StiL\Documents\Visual Studio 2013\Projects\HomeworkArraysListsStacksQueues\03.MinMaxAverage\obj\Debug\03.MinMaxAverage.exe
+C:\Users\StiL\Documents\Visual Studio 2013\Projects\HomeworkArraysListsStacksQueues\03.MinMaxAverage\obj\Debug\03.MinMaxAverage.pdb
+D:\HomeWorks CSharp Advanced\HomeworkArraysListsStacksQueues\03.MinMaxAverage\bin\Debug\03.MinMaxAverage.exe.config
+D:\HomeWorks CSharp Advanced\HomeworkArraysListsStacksQueues\03.MinMaxAverage\obj\Debug\03.MinMaxAverage.exe
+D:\HomeWorks CSharp Advanced\HomeworkArraysListsStacksQueues\03.MinMaxAverage\obj\Debug\03.MinMaxAverage.pdb
